@@ -14,4 +14,8 @@ My version serves not only to accomplish Benson's goals but also to highlight th
 
 ### Religion
 
+Lorem ipsum dolor sit amet.
+
 ### Money
+
+Lorem ipsum dolor sit amet.
