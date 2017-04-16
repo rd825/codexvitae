@@ -22,7 +22,7 @@ My version serves not only to accomplish those goals for myself but also to high
 
 ## Societal Mechanics:
 
-### Religion
+### Religion [SECTION TBC]
 
 While I'm not religious, I do think that understanding religion is important. 
 
@@ -36,4 +36,6 @@ In that case, what is the point of acquiring money? Why bother at all? To paraph
 
 When I say freedom from worry, I mean that anxiety about affording my kids' college or my monthly bills or any number of other daily minutiae fades away. With enough money, the tedious concerns of daily life cease to exist; of course, money brings with it worry of its own (e.g. worry about losing your money or worry about the performance of your investments), but I currently find investing a scintillating activity and try to do so according to my appetite for risk. By limiting the amount I can lose, I limit the amount of worry I can experience.
 
-When I talk about freedom from involuntary decision-making, I'm referring to not having my hand forced due to lack of money. This means not feeling forced to take loans with draconian terms or making decisions that weaken my position in order to shore up my financial position short-term. When people feel desperate, they tend to make bad choices and lose sight of the long game. However, if Warren Buffett can teach us anything, it's that patience and long-termism are powerful tools. Tied to this is the idea of BATNA, which is the "best alternative to negotiated agreement." In simple terms, your BATNA is your next best option if whatever deal you're making falls through. With enough cash to both be content and free from worry, your BATNA is to simply walk away; as the [principle of least interest](https://en.wikipedia.org/wiki/Principle_of_least_interest) says that the person who is least interested (i.e. can walk away) has the most power in any form of relationship.
+When I talk about freedom from involuntary decision-making, I'm referring to not having my hand forced due to lack of money. This means not feeling forced to take loans with draconian terms or making decisions that weaken my position in order to shore up my financial position short-term. When people feel desperate, they tend to make bad choices and lose sight of the long game. However, if Warren Buffett can teach us anything, it's that patience and long-termism are powerful tools. 
+
+Tied to this is the idea of BATNA, which is the "best alternative to negotiated agreement." In simple terms, your BATNA is your next best option if whatever deal you're making falls through. With enough cash to both be content and free from worry, your BATNA is to simply walk away; as the [principle of least interest](https://en.wikipedia.org/wiki/Principle_of_least_interest) says that the person who is least interested (i.e. can walk away) has the most power in any form of relationship.
