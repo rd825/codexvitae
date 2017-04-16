@@ -1,4 +1,4 @@
-# Codex Vitae
+# Rahul Desai's Codex Vitae
 This document was inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). In his version, Benson laid out that his "document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments." 
 
 My version serves not only to accomplish those goals for myself but also to highlight the things I wish I knew earlier in life and record those things for the children I hope to one day have. Furthermore, this serves as a notebook to capture idea fragments that may benefit from public support, co-creation, or scrutiny. 
@@ -30,7 +30,7 @@ While I'm not religious, I do think that understanding religion is important.
 
 A friend of mine recently (as of Apr. 2017) asked me why I want what many people consider an egregious amount of money (i.e. 8 figures in net worth). I didn't get around to answering her that particular day, but I would like to be clear about what the point of money is for me. 
 
-Money is __*not*__ meant to be acquired as an end in itself. Money must be viewed as a resource, rather than a goal; one would be wise to keep that top of mind. If we try to acquire money just for the sake of a number on a bank account statement or pay stub, we subject ourselves to running on the [hedonic treadmill](http://coglode.com/gems/hedonic-adaptation). Simply put, this means that as we become accustomed to bigger numbers, we adapt to them and need more and more to get the same positive feelings and money becomes our drug. 
+Money is __*not*__ meant to be acquired as an end in itself. Money must be viewed as a resource, rather than a goal; one would be wise to keep that top of mind. If we try to acquire money just for the sake of a number on a bank account statement or pay stub, we subject ourselves to running on the [hedonic treadmill](http://coglode.com/gems/hedonic-adaptation). Simply put, this means that as we become accustomed to bigger numbers, we adapt to them and need more and more to get the same positive feelings. Thus, money becomes our drug. 
 
 In that case, what is the point of acquiring money? Why bother at all? To paraphrase the late Gianni Versace, "money buys freedom." For me, freedom falls into two buckets: (a) freedom from worry and (b) freedom from involuntary decision-making. Of course, those two might be sides of the same coin, but in any case, those two types of freedom are what I aspire to currently. 
 
