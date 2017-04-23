@@ -9,6 +9,7 @@ My version serves not only to accomplish those goals for myself but also to high
 
 - [Religion](#religion) 
 - [Money](#money)
+- [Science](#science)
 
 #### 2. Lorem Ipsum
 
@@ -54,3 +55,7 @@ When I say freedom from worry, I mean that anxiety about affording my kids' coll
 When I talk about freedom from involuntary decision-making, I'm referring to not having my hand forced due to lack of money. This means not feeling forced to take loans with draconian terms or making decisions that weaken my position in order to shore up my financial position short-term. When people feel desperate, they tend to make bad choices and lose sight of the long game. However, if Warren Buffett can teach us anything, it's that patience and long-termism are powerful tools. 
 
 Tied to this is the idea of BATNA, which is the "best alternative to negotiated agreement." In simple terms, your BATNA is your next best option if whatever deal you're making falls through. With enough cash to both be content and free from worry, your BATNA is to simply walk away; as the [principle of least interest](https://en.wikipedia.org/wiki/Principle_of_least_interest) says that the person who is least interested (i.e. can walk away) has the most power in any form of relationship.
+
+### Science
+
+Lorem ipsum dolor. TBD.
