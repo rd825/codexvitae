@@ -22,9 +22,24 @@ My version serves not only to accomplish those goals for myself but also to high
 
 ## Societal Mechanics:
 
-### Religion [SECTION TBC]
+### Religion
 
-While I'm not religious, I do think that understanding religion is important. 
+While I'm not religious, I do think that understanding religion is important. Religion's importance to me stems from the reason that it exists. As a species, humans are different from other creatures because of the fact that we alone seek causes for things. We seek to explain the world around us; to date, we have found no other life form that does so. As Maria Konnikova of [The New Yorker](http://www.newyorker.com/tech/elements/why-we-need-answers) notes:
+
+>The human mind is incredibly averse to uncertainty and ambiguity; from an early age, we respond to uncertainty or lack of clarity by spontaneously generating plausible explanations... In 1972, the psychologist Jerome Kagan posited that uncertainty resolution was one of the foremost determinants of our behavior. When we can’t immediately gratify our desire to know, we become highly motivated to reach a concrete explanation... We want, in other words, to achieve “cognitive closure.” 
+
+Religion offers human beings an explanatory system for the natural phenomena that they would not otherwise be able to explain. It is for this reason that we see flood stories from civilizations across the planet: the Biblical account of “Noah’s Ark”, the Greek myth of Deucalion, the Hindu story of Manu and the fish and the Babylonian tale of Utnapishtim from the Epic of Gilgamesh, to name a few. Flood stories exist because of the nature of floods themselves. Ancient civilizations tended to center on rivers and could not expand too far  beyond them due to the limits of irrigation technology; thus, the bounds of the "known world" were constrained. When the rivers flooded, it seemed like they would flood the whole world. Of course, while floods can bring life (as in Egypt), they can also be wildly destructive. Ancient peoples sought an explanation for this destruction.
+
+[Dr. Tania Lombrozo](https://blogs.scientificamerican.com/mind-guest-blog/why-we-wonder-why/) from Berkeley says that "people prefer explanations that provide a function or purpose, called 'teleological explanations.' If I ask, for instance, 'why does your cup have a handle?' a teleological explanations might be, 'The cup has a handle so that you can lift it without burning your fingers.'" Floods, teleologically explained, happen to smite people's wickedness and cause rebirth per various religions. 
+
+This brings me to my main point: religion is important to understand because people use it to describe the world. While you or I might not subscribe to those belief systems, understanding others' religions gives us a view into understanding them. My favorite theory of how one might reconcile various religions is recounted [here](https://beyondtherobot.com/could-all-religions-be-true-919b713852ae) by Jack Preston King.
+
+Simply put:
+>All of Humanity is climbing the same Holy Mountain. It’s a big enough mountain that the landscape and the weather are different depending on which side you’re climbing. It’s so wide at the base that you have to have ascended quite a distance to even become aware you’re on a mountain with more than one side, that you’re climbing something other than a flat, vertical plane. At the top of the mountain is a Great Truth that is calling us all toward it.
+
+The maps up the mountain are religions. They appear shockingly different due to the conditions different spiritual cartographers face. Different histories, cultures, and other factors all lead to different maps. Most importantly, though, is that each mapmaker's truth is true from the perspective of the map and path they're following. 
+
+>While we’re on one side or another of the mountain, we’re stuck with a limited view, and we squabble over particulars. At the summit, that just won’t happen, for reasons that will make perfect sense when we get there, but not a moment before. It [The Holy Mount metaphor] suggests that perceived contradictions are only apparent, the result of drawing short-sighted conclusions before we’ve gathered all the relevant evidence. When the day comes that we do, in fact, “know it all” (instead of merely pretending to), we’ll all agree on everything.
 
 ### Money
 
