@@ -11,7 +11,7 @@ My version serves not only to accomplish those goals for myself but also to high
 - [Money](#money)
 - [Science](#science)
 
-#### 2. Confessions
+#### 2. "Confessions"
 
 - [Intro](#intro)
 - [Answers](#answers)
@@ -60,31 +60,31 @@ Tied to this is the idea of BATNA, which is the "best alternative to negotiated 
 
 Lorem ipsum dolor. TBD.
 
-## 2. Confessions
+## 2. "Confessions"
 
 ### Intro
 
-Lorem ipsum dolor
+In Victorian England, one pastime among friends and family was to jot down your “Confessions”— answers to semi-serious questions of taste and principle. I have taken the list of [questions](https://www.marxists.org/archive/marx/works/1865/04/01.htm) that Karl Marx answered in the spring of 1865, and have provided my own answers. While Marx did not indicate why he answered questions in any particular way, I have strived to provide some explanation of my choices. These are my confessions.
 
 ### Answers
 
-Question | Answer
---- | ---
-The Quality you like best | Lorem ipsum
-Your chief characteristic | Lorem ipsum
-Your favourite occupation | Lorem ipsum
-The vice you hate most | Lorem ipsum
-The vice you excuse most | Lorem ipsum
-Your idea of happiness | Lorem ipsum
-Your idea of misery | Lorem ipsum
-Your aversion | Lorem ipsum
-Your hero | Lorem ipsum
-Your heroine | Lorem ipsum
-The poet you like best | Lorem ipsum
-The prose writer you like best | Lorem ipsum
-Your favourite flower | Lorem ipsum
-Your favourite dish | Lorem ipsum
-Your Maxim | Lorem ipsum
-Your motto | Lorem ipsum
-Your favourite colour | Lorem ipsum
-The character in history you most dislike | Lorem ipsum
+Question | Answer | Explanation
+--- | --- | ---
+The quality you like best | Lorem ipsum | Dolor sit amet
+Your chief characteristic | Lorem ipsum | Dolor sit amet
+Your favorite occupation | Lorem ipsum | Dolor sit amet
+The vice you hate most | Lorem ipsum | Dolor sit amet
+The vice you excuse most | Lorem ipsum | Dolor sit amet
+Your idea of happiness | Lorem ipsum | Dolor sit amet
+Your idea of misery | Lorem ipsum | Dolor sit amet
+Your aversion | Lorem ipsum | Dolor sit amet
+Your hero | Lorem ipsum | Dolor sit amet
+Your heroine | Lorem ipsum | Dolor sit amet
+The poet you like best | Lorem ipsum | Dolor sit amet
+The prose writer you like best | Lorem ipsum | Dolor sit amet
+Your favorite flower | Lorem ipsum | Dolor sit amet
+Your favorite dish | Lorem ipsum | Dolor sit amet
+Your maxim | Lorem ipsum | Dolor sit amet
+Your motto | Lorem ipsum | Dolor sit amet
+Your favorite color | Lorem ipsum | Dolor sit amet
+The character in history you most dislike | Lorem ipsum | Dolor sit amet
