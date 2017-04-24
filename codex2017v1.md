@@ -11,17 +11,17 @@ My version serves not only to accomplish those goals for myself but also to high
 - [Money](#money)
 - [Science](#science)
 
-#### 2. Lorem Ipsum
+#### 2. Confessions
 
-- A
-- B
+- [Intro](#intro)
+- [Answers](#answers)
 
 #### 3. Dolor Sit Amet
 
 - C
 - D
 
-## Societal Mechanics:
+## 1. Societal Mechanics:
 
 ### Religion
 
@@ -59,3 +59,32 @@ Tied to this is the idea of BATNA, which is the "best alternative to negotiated 
 ### Science
 
 Lorem ipsum dolor. TBD.
+
+## 2. Confessions
+
+### Intro
+
+Lorem ipsum dolor
+
+### Answers
+
+Question | Answer
+--- | ---
+The Quality you like best | Lorem ipsum
+Your chief characteristic | Lorem ipsum
+Your favourite occupation | Lorem ipsum
+The vice you hate most | Lorem ipsum
+The vice you excuse most | Lorem ipsum
+Your idea of happiness | Lorem ipsum
+Your idea of misery | Lorem ipsum
+Your aversion | Lorem ipsum
+Your hero | Lorem ipsum
+Your heroine | Lorem ipsum
+The poet you like best | Lorem ipsum
+The prose writer you like best | Lorem ipsum
+Your favourite flower | Lorem ipsum
+Your favourite dish | Lorem ipsum
+Your Maxim | Lorem ipsum
+Your motto | Lorem ipsum
+Your favourite colour | Lorem ipsum
+The character in history you most dislike | Lorem ipsum
