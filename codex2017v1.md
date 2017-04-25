@@ -93,7 +93,7 @@ The character in history you most dislike | Lorem ipsum | Dolor sit amet
 ### Quotes
 
 "If you're not planting seeds for 5 to 10 years out, you have no company 5 to 10 years out."
--Jeff Holden, Chief Product Officer @ Uber [(source)](https://www.uber.com/info/elevate/summit/)
+-**Jeff Holden**, Chief Product Officer @ Uber ([source](https://www.uber.com/info/elevate/summit/))
 
 "Disagree and commit."
--Jeff Bezos, CEO & Founder @ Amazon [(source)](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
+-**Jeff Bezos**, CEO & Founder @ Amazon ([source](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm))
