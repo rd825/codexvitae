@@ -16,10 +16,9 @@ My version serves not only to accomplish those goals for myself but also to high
 - [Intro](#intro)
 - [Answers](#answers)
 
-#### 3. Dolor Sit Amet
+#### 3. Collected Wisdom
 
-- C
-- D
+- [Quotes](#quotes)
 
 ## 1. Societal Mechanics:
 
@@ -88,3 +87,13 @@ Your maxim | Lorem ipsum | Dolor sit amet
 Your motto | Lorem ipsum | Dolor sit amet
 Your favorite color | Lorem ipsum | Dolor sit amet
 The character in history you most dislike | Lorem ipsum | Dolor sit amet
+
+## 3. Collected Wisdom
+
+### Quotes
+
+"If you're not planting seeds for 5 to 10 years out, you have no company 5 to 10 years out."
+-Jeff Holden, Chief Product Officer @ Uber
+
+"Disagree and commit."
+-Jeff Bezos, CEO & Founder @ Amazon
