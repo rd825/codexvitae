@@ -69,8 +69,8 @@ In Victorian England, one pastime among friends and family was to jot down your 
 
 Question | Answer | Explanation
 --- | --- | ---
-The quality you like best | Lorem ipsum | Dolor sit amet
-Your chief characteristic | Lorem ipsum | Dolor sit amet
+The quality you like best | Efficiency | My name means "efficient" in Sanskrit and I studied Operations Management in college.
+Your chief characteristic | Quick-study | Speed-reading + memory = knowledge acquisition
 Your favorite occupation | Lorem ipsum | Dolor sit amet
 The vice you hate most | Lorem ipsum | Dolor sit amet
 The vice you excuse most | Lorem ipsum | Dolor sit amet
