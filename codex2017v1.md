@@ -74,18 +74,18 @@ Your chief characteristic | Quick-study | Speed-reading + memory = knowledge acq
 Your favorite occupation | Lorem ipsum | Dolor sit amet
 The vice you hate most | Lorem ipsum | Dolor sit amet
 The vice you excuse most | Lorem ipsum | Dolor sit amet
-Your idea of happiness | Lorem ipsum | Dolor sit amet
-Your idea of misery | Lorem ipsum | Dolor sit amet
+Your idea of happiness | Complete Freedom | see section on [Money](#money)
+Your idea of misery | Bureaucracy | Being told what to do, esp. in a slow and broken system, chafes.
 Your aversion | Lorem ipsum | Dolor sit amet
 Your hero | Lorem ipsum | Dolor sit amet
 Your heroine | Lorem ipsum | Dolor sit amet
-The poet you like best | Lorem ipsum | Dolor sit amet
-The prose writer you like best | Lorem ipsum | Dolor sit amet
-Your favorite flower | Lorem ipsum | Dolor sit amet
+The poet you like best | Lord Byron | "She Walks in Beauty" is a damn good poem.
+The prose writer you like best | F. Scott Fitzgerald | He makes prose sound like poetry, layered with wit and insight.
+Your favorite flower | Blue Orchid | They are quite rare, tough to grow, and phenomenally pretty.
 Your favorite dish | Lorem ipsum | Dolor sit amet
 Your maxim | Lorem ipsum | Dolor sit amet
 Your motto | Lorem ipsum | Dolor sit amet
-Your favorite color | Lorem ipsum | Dolor sit amet
+Your favorite color | Red | It's the color of my personality.
 The character in history you most dislike | Lorem ipsum | Dolor sit amet
 
 ## 3. Collected Wisdom
@@ -97,3 +97,6 @@ The character in history you most dislike | Lorem ipsum | Dolor sit amet
 
 "Disagree and commit."
 -**Jeff Bezos**, CEO & Founder @ Amazon ([source](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm))
+
+"Design is the rendering of intent."
+-**Jared Spool**, Founding Principal @ User Interface Engineering ([source](https://articles.uie.com/design_rendering_intent/))
