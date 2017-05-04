@@ -71,32 +71,37 @@ Question | Answer | Explanation
 --- | --- | ---
 The quality you like best | Efficiency | My name means "efficient" in Sanskrit and I studied Operations Management in college.
 Your chief characteristic | Quick-study | Speed-reading + memory = knowledge acquisition
-Your favorite occupation | Lorem ipsum | Dolor sit amet
-The vice you hate most | Lorem ipsum | Dolor sit amet
-The vice you excuse most | Lorem ipsum | Dolor sit amet
+Your favorite occupation | CEO | Aspirational...
+The vice you hate most | Ignorance | In most cases, there's no excuse for not picking up a book.
+The vice you excuse most | Arrogance | I've excused it in myself and so I do in others. It's something I personally need to work on.
 Your idea of happiness | Complete Freedom | see section on [Money](#money)
 Your idea of misery | Bureaucracy | Being told what to do, esp. in a slow and broken system, chafes.
-Your aversion | Lorem ipsum | Dolor sit amet
+Your aversion | Boring people | What sort of a person wants to be bored (or boring)?
 Your hero | Lorem ipsum | Dolor sit amet
 Your heroine | Lorem ipsum | Dolor sit amet
 The poet you like best | Lord Byron | "She Walks in Beauty" is a damn good poem.
 The prose writer you like best | F. Scott Fitzgerald | He makes prose sound like poetry, layered with wit and insight.
 Your favorite flower | Blue Orchid | They are quite rare, tough to grow, and phenomenally pretty.
-Your favorite dish | Lorem ipsum | Dolor sit amet
+Your favorite dish | Malai kofta | Feels very comforting to me
 Your maxim | Lorem ipsum | Dolor sit amet
 Your motto | Lorem ipsum | Dolor sit amet
 Your favorite color | Red | It's the color of my personality.
-The character in history you most dislike | Lorem ipsum | Dolor sit amet
+The character in history you most dislike | Joseph Stalin | Killed tens of millions in the process of building a society, distorted its theoretical underpinnings, and ultimately had it implode. There's something profoundly tragic about the callousness and wasted life there.
 
 ## 3. Collected Wisdom
 
 ### Quotes
 
-"If you're not planting seeds for 5 to 10 years out, you have no company 5 to 10 years out."
--**Jeff Holden**, Chief Product Officer @ Uber ([source](https://www.uber.com/info/elevate/summit/))
+"If you're not planting seeds for 5 to 10 years out, you have no company 5 to 10 years out." <br>
+-**Jeff Holden**, Chief Product Officer @ Uber ([source](https://www.uber.com/info/elevate/summit/)) <br> 
+*Context: said at the Uber Elevate Summit (conference on flying cars) in April 2017.*
 
-"Disagree and commit."
+"Disagree and commit." <br>
 -**Jeff Bezos**, CEO & Founder @ Amazon ([source](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm))
 
-"Design is the rendering of intent."
+"Design is the rendering of intent." <br>
 -**Jared Spool**, Founding Principal @ User Interface Engineering ([source](https://articles.uie.com/design_rendering_intent/))
+
+"Coke v Pepsi. Pick the more mainstream option that more people can easily consume. Both will make money but bigger is always better." <br>
+-**Chamath Palihapitiya**, CEO @ Social Capital ([source](https://twitter.com/chamath/status/860170458175426560)) <br>
+*Context: when you need to decide between two similar investments (i.e. Bitcoin & Ethereum), pick the one that's ready for mass consumption (or pick both as a hedge).* 
