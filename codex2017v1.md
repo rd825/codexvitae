@@ -74,14 +74,14 @@ Your chief characteristic | Quick-study | Speed-reading + memory = knowledge acq
 Your favorite occupation | CEO | Aspirational...
 The vice you hate most | Ignorance | In most cases, there's no excuse for not picking up a book.
 The vice you excuse most | Arrogance | I've excused it in myself and so I do in others. It's something I personally need to work on.
-Your idea of happiness | Complete Freedom | see section on [Money](#money)
+Your idea of happiness | Complete freedom | see section on [Money](#money)
 Your idea of misery | Bureaucracy | Being told what to do, esp. in a slow and broken system, chafes.
 Your aversion | Boring people | What sort of a person wants to be bored (or boring)?
-Your hero | Lorem ipsum | Dolor sit amet
-Your heroine | Lorem ipsum | Dolor sit amet
+Your hero | Deadpool | The wisecracks get me every time, also immortal.
+Your heroine | Jane Eyre | She had her shit together, for the most part. 
 The poet you like best | Lord Byron | "She Walks in Beauty" is a damn good poem.
 The prose writer you like best | F. Scott Fitzgerald | He makes prose sound like poetry, layered with wit and insight.
-Your favorite flower | Blue Orchid | They are quite rare, tough to grow, and phenomenally pretty.
+Your favorite flower | Blue orchid | They are quite rare, tough to grow, and phenomenally pretty.
 Your favorite dish | Malai kofta | Feels very comforting to me
 Your maxim | Lorem ipsum | Dolor sit amet
 Your motto | Lorem ipsum | Dolor sit amet
