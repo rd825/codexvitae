@@ -83,9 +83,9 @@ The poet you like best | Lord Byron | "She Walks in Beauty" is a damn good poem.
 The prose writer you like best | F. Scott Fitzgerald | He makes prose sound like poetry, layered with wit and insight.
 Your favorite flower | Blue orchid | They are quite rare, tough to grow, and phenomenally pretty.
 Your favorite dish | Malai kofta | Feels very comforting to me
-Your maxim | Lorem ipsum | Dolor sit amet
-Your motto | Lorem ipsum | Dolor sit amet
-Your favorite color | Red | It's the color of my personality.
+Your maxim | Success is knowing what to do and how to do it. | Seems like the simplest true advice I've heard.
+Your motto | For now, "Hoya Saxa" | The informal motto of my alma mater meaning "What Rocks"
+Your favorite color | Red | It's the color of my personality (see [Color Code](https://www.colorcode.com/choose_personality_test/)).
 The character in history you most dislike | Joseph Stalin | Killed tens of millions in the process of building a society, distorted its theoretical underpinnings, and ultimately had it implode. There's something profoundly tragic about the callousness and wasted life there.
 
 ## 3. Collected Wisdom
