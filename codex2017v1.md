@@ -19,6 +19,7 @@ My version serves not only to accomplish those goals for myself but also to high
 #### 3. Collected Wisdom
 
 - [Quotes](#quotes)
+- [Unsolicited Advice](#unsolicited-advice)
 
 ## 1. Societal Mechanics:
 
@@ -105,3 +106,11 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "Coke v Pepsi. Pick the more mainstream option that more people can easily consume. Both will make money but bigger is always better." <br>
 -**Chamath Palihapitiya**, CEO @ Social Capital ([source](https://twitter.com/chamath/status/860170458175426560)) <br>
 *Context: when you need to decide between two similar investments (i.e. Bitcoin & Ethereum), pick the one that's ready for mass consumption (or pick both as a hedge).* 
+
+### Unsolicited Advice
+
+Anger, frustration, and other negative emotions have an optimal window in which they help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
+
+Experience only matters insofar as you have the basic skills to get the job done. The ability to learn quickly is far more important and helps you level up faster (Hunter Walk describes this as "[betting on people prematurely](https://hunterwalk.com/2014/04/11/bet-on-people-prematurely/)"). 
+
+If you want to figure out what a person or group of people truly values, compare what they say to what they do. People tend to say lots of things, many of which they don't actually mean. Therefore, examining their actions is the only way to parse out their motives, beliefs, and values (see [revealed preferences](https://en.wikipedia.org/wiki/Revealed_preference)).
