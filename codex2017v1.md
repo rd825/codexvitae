@@ -114,3 +114,7 @@ Anger, frustration, and other negative emotions have an optimal window in which 
 Experience only matters insofar as you have the basic skills to get the job done. The ability to learn quickly is far more important and helps you level up faster (Hunter Walk describes this as "[betting on people prematurely](https://hunterwalk.com/2014/04/11/bet-on-people-prematurely/)"). 
 
 If you want to figure out what a person or group of people truly values, compare what they say to what they do. People tend to say lots of things, many of which they don't actually mean. Therefore, examining their actions is the only way to parse out their motives, beliefs, and values (see [revealed preferences](https://en.wikipedia.org/wiki/Revealed_preference)).
+
+Nobody knows what they're doing. And as you get older, you become more aware of just how little you know. That's ok: you don't need to know everything about everything.
+
+When you decide what you want to do, don't optimize for "what you love," which is the garbage advice most people will give you. Optimize for three things: (a) something that fascinates you, (b) something that will change the world in the future (right now that's bioengineering and AI/ML), and (c) something you're good at. If you can do those things, you'll get satisfaction from being curious, making advances in your field, and accruing personal acheievement. 
