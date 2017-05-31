@@ -73,7 +73,7 @@ Question | Answer | Explanation
 The quality you like best | Efficiency | My name means "efficient" in Sanskrit and I studied Operations Management in college.
 Your chief characteristic | Quick-study | Speed-reading + memory = knowledge acquisition
 Your favorite occupation | CEO | Aspirational...
-The vice you hate most | Ignorance | In most cases, there's no excuse for not picking up a book.
+The vice you hate most | Ignorance | In most cases, there's no excuse for not picking up a book or Googling.
 The vice you excuse most | Arrogance | I've excused it in myself and so I do in others. It's something I personally need to work on.
 Your idea of happiness | Complete freedom | see section on [Money](#money)
 Your idea of misery | Bureaucracy | Being told what to do, esp. in a slow and broken system, chafes.
