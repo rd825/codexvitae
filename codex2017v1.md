@@ -78,7 +78,7 @@ The vice you excuse most | Arrogance | I've excused it in myself and so I do in 
 Your idea of happiness | Complete freedom | see section on [Money](#money)
 Your idea of misery | Bureaucracy | Being told what to do, esp. in a slow and broken system, chafes.
 Your aversion | Boring people | What sort of a person wants to be bored (or boring)?
-Your hero | Deadpool | The wisecracks get me every time, also immortal.
+Your hero | Deadpool | The wisecracks get me every time, also regenerates.
 Your heroine | Jane Eyre | She had her shit together, for the most part. 
 The poet you like best | Lord Byron | "She Walks in Beauty" is a damn good poem.
 The prose writer you like best | F. Scott Fitzgerald | He makes prose sound like poetry, layered with wit and insight.
@@ -107,14 +107,18 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 -**Chamath Palihapitiya**, CEO @ Social Capital ([source](https://twitter.com/chamath/status/860170458175426560)) <br>
 *Context: when you need to decide between two similar investments (i.e. Bitcoin & Ethereum), pick the one that's ready for mass consumption (or pick both as a hedge).* 
 
+"History doesn't repeat itself, but it does rhyme." 
+<br>
+-**Mark Twain**, American author and humorist ([source](http://www.goodreads.com/quotes/5382-history-doesn-t-repeat-itself-but-it-does-rhyme))
+
 ### Unsolicited Advice
 
-Anger, frustration, and other negative emotions have an optimal window in which they help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
+Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
 
 Experience only matters insofar as you have the basic skills to get the job done. The ability to learn quickly is far more important and helps you level up faster (Hunter Walk describes this as "[betting on people prematurely](https://hunterwalk.com/2014/04/11/bet-on-people-prematurely/)"). 
 
 If you want to figure out what a person or group of people truly values, compare what they say to what they do. People tend to say lots of things, many of which they don't actually mean. Therefore, examining their actions is the only way to parse out their motives, beliefs, and values (see [revealed preferences](https://en.wikipedia.org/wiki/Revealed_preference)).
 
-Nobody knows what they're doing. And as you get older, you become more aware of just how little you know. That's ok: you don't need to know everything about everything.
+Nobody knows what they're doing. And as you get older, you become more aware of just how little you know. That's ok: you don't need to know everything about everything. You just need to know a lot about a little and a little about a lot.
 
-When you decide what you want to do, don't optimize for "what you love," which is the garbage advice most people will give you. Optimize for three things: (a) something that fascinates you, (b) something that will change the world in the future (right now that's bioengineering and AI/ML), and (c) something you're good at. If you can do those things, you'll get satisfaction from being curious, making advances in your field, and accruing personal acheievement. 
+When you decide what you want to do, don't optimize for "what you love," which is the garbage advice most people will give you. Optimize for three things: (a) something that fascinates you, (b) something that will change the world in the future (right now, May 2017, that's bioengineering and AI/ML), and (c) something you're good at. If you can do those things, you'll get satisfaction from being curious, making advances in your field, and accruing personal acheievement. 
