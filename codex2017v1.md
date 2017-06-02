@@ -83,7 +83,7 @@ Your heroine | Jane Eyre | She had her shit together, for the most part.
 The poet you like best | Lord Byron | "She Walks in Beauty" is a damn good poem.
 The prose writer you like best | F. Scott Fitzgerald | He makes prose sound like poetry, layered with wit and insight.
 Your favorite flower | Blue orchid | They are quite rare, tough to grow, and phenomenally pretty.
-Your favorite dish | Malai kofta | Feels very comforting to me
+Your favorite dish | Butter Chicken | Feels very comforting to me
 Your maxim | Success is knowing what to do and how to do it. | Seems like the simplest true advice I've heard.
 Your motto | For now, "Hoya Saxa" | The informal motto of my alma mater meaning "What Rocks"
 Your favorite color | Red | It's the color of my personality (see [Color Code](https://www.colorcode.com/choose_personality_test/)).
@@ -107,9 +107,11 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 -**Chamath Palihapitiya**, CEO @ Social Capital ([source](https://twitter.com/chamath/status/860170458175426560)) <br>
 *Context: when you need to decide between two similar investments (i.e. Bitcoin & Ethereum), pick the one that's ready for mass consumption (or pick both as a hedge).* 
 
-"History doesn't repeat itself, but it does rhyme." 
-<br>
+"History doesn't repeat itself, but it does rhyme." <br>
 -**Mark Twain**, American author and humorist ([source](http://www.goodreads.com/quotes/5382-history-doesn-t-repeat-itself-but-it-does-rhyme))
+
+"There is only one god, and His name is Death. And there is only one thing we say to Death: not today." <br>
+-**Syrio Forel**, Game of Thrones character ([source](http://gameofthrones.wikia.com/wiki/Syrio_Forel))
 
 ### Unsolicited Advice
 
