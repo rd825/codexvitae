@@ -124,3 +124,5 @@ If you want to figure out what a person or group of people truly values, compare
 Nobody knows what they're doing. And as you get older, you become more aware of just how little you know. That's ok: you don't need to know everything about everything. You just need to know a lot about a little and a little about a lot.
 
 When you decide what you want to do, don't optimize for "what you love," which is the garbage advice most people will give you. Optimize for three things: (a) something that fascinates you, (b) something that will change the world in the future (right now, May 2017, that's bioengineering, blockchain, and AI/ML), and (c) something you're good at. If you can do those things, you'll get satisfaction from being curious, making advances in your field, and accruing personal acheievement. 
+
+Not everything in life is winner-take-all or zero-sum, but it's best to go after it like it is. You have to compete at a high enough level to take advantage of the best opportunities. Compete so hard that you're not just in a different league, but playing a different game. Only that leads you to have monopoly power.
