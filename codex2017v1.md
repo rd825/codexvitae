@@ -5,11 +5,12 @@ My version serves not only to accomplish those goals for myself but also to high
 
 ## Table of Contents
 
-#### 1. Societal Mechanics
+#### 1. Big Ideas
 
 - [Religion](#religion) 
 - [Money](#money)
 - [Science](#science)
+- [Product Thinking](#product-thinking)
 
 #### 2. "Confessions"
 
@@ -21,7 +22,7 @@ My version serves not only to accomplish those goals for myself but also to high
 - [Quotes](#quotes)
 - [Unsolicited Advice](#unsolicited-advice)
 
-## 1. Societal Mechanics:
+## 1. Big Ideas
 
 ### Religion
 
@@ -59,6 +60,22 @@ Tied to this is the idea of BATNA, which is the "best alternative to negotiated 
 ### Science
 
 Lorem ipsum dolor. TBD.
+
+### Product Thinking
+
+Here's a hit list of things I believe about product strategy and management. More simply, this is about how to make profit by building things people want.
+
+# Benevolent Dictatorship
+
+1) The majority of the population cannot really articulate what it is they want. People's thinking and expectations are constrained by the past; you must show them a better future.
+
+2) This requires a single, overarching vision. Note that word choice: "vision," not "idea." Ideas are a dime a dozen. Anyone can have a "good idea." But vision comes from deep understanding of a problem. You don't have to be an expert. You just need to get really smart about a big problem in the world and find a novel, efficient, _better_ way to solve it.
+
+3) In order to prevent dilution of vision, you need a benevolent dictator in charge. When decisions are made by committee or consensus, debates slow down forward progress and the vision that drives things forward is diluted by too many voices. Almost every successful startup ($1B+ exit) is therefore a [cult of personality](https://www.thoughtdistiller.com/polarizing-personality/). 
+
+4) Thus, a benevolent dictator sets vision, has veto power, and makes final decisions. However, this person must welcome team contributions and cooperation; otherwise, they will find themselves without teammates quite quickly. The dictator tells people what to do, never how to do it. To quote [Shyam Sankar](http://shyamsankar.com/position-and-portfolio) of Palantir, "Despite the necessity of joint ownership (or perhaps because of it), some things simply require a dictator to get done. This is especially true in product development, where not only does halving the team often double the pace of progress, but the fulfillment of a coherent vision usually requires one actual visionary."
+
+5) When deciding, it helps to allow people to indicate their viewpoint. If a minority of people disagree with the dictator, they should just disagree and commit. If a majority disagree, they should go to a higher power and state their case.
 
 ## 2. "Confessions"
 
