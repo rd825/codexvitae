@@ -65,7 +65,7 @@ Lorem ipsum dolor. TBD.
 
 Here's a hit list of things I believe about product strategy and management. More simply, this is about how to make profit by building things people want.
 
-# Benevolent Dictatorship
+#### Benevolent Dictatorship
 
 1) The majority of the population cannot really articulate what it is they want. People's thinking and expectations are constrained by the past; you must show them a better future.
 
