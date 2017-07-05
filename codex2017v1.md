@@ -135,7 +135,7 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 -**Syrio Forel**, Game of Thrones character ([source](http://gameofthrones.wikia.com/wiki/Syrio_Forel))
 
 "Normalcy is not an objective state, waiting to be discovered. It is a social construction of society... This ability to normalize just about anything is simultaneously one of our species’ greatest strengths and one of its greatest weaknesses... Giving positions of power to people based on favoritism, or nepotism, or on how easily they can be controlled from above is a dangerous norm for our democracy... Consider that your very presence in such a system provides consent. Consent is the fuel any Administration needs to continue to normalize what it is doing." <br>
--**Noah Kunin**, former Infrastructure Director @ 18F ([source](https://medium.com/@noahkunin/why-im-leaving-18f-48970131d547))
+-**Noah Kunin**, former Infrastructure Director @ 18F ([source](https://medium.com/@noahkunin/why-im-leaving-18f-48970131d547)) <br>
 *Context: explaining why one's continued presence within a system that normalizes bad behavior provides consent for said behavior, with regard to the Trump presidency.*
 
 ### Unsolicited Advice
