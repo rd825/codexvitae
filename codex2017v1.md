@@ -134,6 +134,10 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "There is only one god, and His name is Death. And there is only one thing we say to Death: not today." <br>
 -**Syrio Forel**, Game of Thrones character ([source](http://gameofthrones.wikia.com/wiki/Syrio_Forel))
 
+"Normalcy is not an objective state, waiting to be discovered. It is a social construction of society... This ability to normalize just about anything is simultaneously one of our species’ greatest strengths and one of its greatest weaknesses... Giving positions of power to people based on favoritism, or nepotism, or on how easily they can be controlled from above is a dangerous norm for our democracy... Consider that your very presence in such a system provides consent. Consent is the fuel any Administration needs to continue to normalize what it is doing." <br>
+-**Noah Kunin**, former Infrastructure Director @ 18F ([source](https://medium.com/@noahkunin/why-im-leaving-18f-48970131d547))
+*Context: explaining why one's continued presence within a system that normalizes bad behavior provides consent for said behavior, with regard to the Trump presidency.*
+
 ### Unsolicited Advice
 
 Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
