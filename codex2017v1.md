@@ -21,6 +21,7 @@ My version serves not only to accomplish those goals for myself but also to high
 
 - [Quotes](#quotes)
 - [Unsolicited Advice](#unsolicited-advice)
+- [Anecdotes](#anecdotes)
 
 ## 1. Big Ideas
 
@@ -151,3 +152,7 @@ Nobody knows what they're doing. And as you get older, you become more aware of 
 When you decide what you want to do, don't optimize for "what you love," which is the garbage advice most people will give you. Optimize for three things: (a) something that fascinates you, (b) something that will change the world in the future (right now, May 2017, that's bioengineering, blockchain, and AI/ML), and (c) something you're good at. If you can do those things, you'll get satisfaction from being curious, making advances in your field, and accruing personal acheievement. 
 
 Not everything in life is winner-take-all or zero-sum, but it's best to go after it like it is. You have to compete at a high enough level to take advantage of the best opportunities. Compete so hard that you're not just in a different league, but playing a different game. Only that leads you to have monopoly power.
+
+### Anecdotes
+
+When I was 15, I wanted a job at McDonald's. My dad said to me, “If you want a job so bad , I will pay you $6 an hour. I will pay you $6 an hour every hour you stand looking at the wall.” I asked him “For real?” Then, being young, I asked “Is there a limit to how many hours I can stand?” “No,” he said, “every day, all day.” My younger brother was jealous and said, “What about me?” My dad said, “You too!” So we both faced the wall in the dining room and he only had 2 rules: we must pay attention to the wall and not lean on it. My younger 12-year-old brother lasted less than a half hour and I lasted 2 and half hours; standing was okay, but focusing on the wall was near torture. Having no goals, being homeless, not trying to exceed your own abilities in any way is simply choosing a way of life that leads to the wall, which then leads to drugs and alcohol to cope. (source: [Quora](https://www.quora.com/What-is-the-life-people-should-not-live/answer/Coal-Akida?srid=zFBt))
