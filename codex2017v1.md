@@ -5,12 +5,11 @@ My version serves not only to accomplish those goals for myself but also to high
 
 ## Table of Contents
 
-#### 1. Big Ideas
+#### 1. Ideas
 
 - [Religion](#religion) 
 - [Money](#money)
-- [Science](#science)
-- [Product Thinking](#product-thinking)
+- [Business Thinking](#business-thinking)
 
 #### 2. "Confessions"
 
@@ -23,7 +22,7 @@ My version serves not only to accomplish those goals for myself but also to high
 - [Unsolicited Advice](#unsolicited-advice)
 - [Anecdotes](#anecdotes)
 
-## 1. Big Ideas
+## 1. Ideas
 
 ### Religion
 
@@ -58,13 +57,9 @@ When I talk about freedom from involuntary decision-making, I'm referring to not
 
 Tied to this is the idea of BATNA, which is the "best alternative to negotiated agreement." In simple terms, your BATNA is your next best option if whatever deal you're making falls through. With enough cash to both be content and free from worry, your BATNA is to simply walk away; as the [principle of least interest](https://en.wikipedia.org/wiki/Principle_of_least_interest) says that the person who is least interested (i.e. can walk away) has the most power in any form of relationship.
 
-### Science
+### Business Thinking
 
-Lorem ipsum dolor. TBD.
-
-### Product Thinking
-
-Here's a hit list of things I believe about product strategy and management. More simply, this is about how to make profit by building things people want.
+Here's a hit list of things I believe about business management. More simply, this is about how to make profit by building things people want and managing talent well, among other topics.
 
 #### Benevolent Dictatorship
 
@@ -81,6 +76,22 @@ Here's a hit list of things I believe about product strategy and management. Mor
 6) When deciding, it helps the team dynamic to allow people to indicate their viewpoint. If a minority of people disagree with the dictator, they should just disagree and commit with the dictator. If a majority disagree, the dictator should disagree and commit with the majority. Therefore, complete consensus isn’t required to move forward, just the team’s sense that the vision is maintained.
 
 7) The goal of the benevolent dictator is to protect the product vision, not his or her own ego. This means that a good leader will tell people what needs to be done when it needs to be done, but be flexible enough to listen and adapt to the concerns of their teammates. Ultimately, the best product leaders will use their influence and vision to act as force multipliers for their teams.
+
+#### Radical Transparency
+
+see Hubspot.
+
+#### Labor-Hours
+
+Time tracking doesn't matter. Idc how long you work, so long as you hit goals and ship quality product by deadlines or better. If you can do your job in 30 minutes, awesome. You get a promotion.
+
+#### Remote Work / Vacation
+
+unlimited given certain parameters that I haven't thought of yet.
+
+#### Data-Driven
+
+no decisions should be made due to emotion or opinion alone. Data rules everything around me. revisit "brilliant assholes"
 
 ## 2. "Confessions"
 
