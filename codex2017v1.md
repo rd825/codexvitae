@@ -83,7 +83,11 @@ see Hubspot.
 
 #### Labor-Hours
 
-Time tracking doesn't matter. Idc how long you work, so long as you hit goals and ship quality product by deadlines or better. If you can do your job in 30 minutes, awesome. You get a promotion.
+Time tracking doesn't matter. Idc how long you work, so long as you hit goals and ship quality product by deadlines or better. If you can do your job with great success in 30 minutes, awesome. You'll get promoted / keep getting promoted until you can't do your job in 30 min.
+
+#### Meetings
+
+Meetings should never be more than 20 min. Human attention span is 20 minutes. Meetings should run with default of 30 second speaking time; use a chess clock to keep people on track. perhaps add 30 sec silent consideration after every 30 second speaking.
 
 #### Remote Work / Vacation
 
@@ -91,7 +95,7 @@ unlimited given certain parameters that I haven't thought of yet.
 
 #### Data-Driven
 
-no decisions should be made due to emotion or opinion alone. Data rules everything around me. revisit "brilliant assholes"
+no decisions should be made due to emotion or opinion alone. Data rules everything around me. revisit "brilliant assholes" via utilitarian perspective.
 
 ## 2. "Confessions"
 
