@@ -97,6 +97,10 @@ unlimited given certain parameters that I haven't thought of yet.
 
 no decisions should be made due to emotion or opinion alone. Data rules everything around me. revisit "brilliant assholes" via utilitarian perspective.
 
+#### Psychological Safety
+
+lorem ipsum dolor
+
 ## 2. "Confessions"
 
 ### Intro
