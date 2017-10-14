@@ -158,6 +158,12 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 -**Noah Kunin**, former Infrastructure Director @ 18F ([source](https://medium.com/@noahkunin/why-im-leaving-18f-48970131d547)) <br>
 *Context: explaining why one's continued presence within a system that normalizes bad behavior provides consent for said behavior, with regard to the Trump presidency.*
 
+"Saying that taste is just personal preference is a good way to prevent disputes. The trouble is, it's not true. You feel this when you start to design things." <br>
+-**Paul Graham**, Co-founder @ Y Combinator ([source](http://www.paulgraham.com/taste.html))
+
+"It's important for nerds to realize, too, that school is not life. School is a strange, artificial thing, half sterile and half feral. It's all-encompassing, like life, but it isn't the real thing. It's only temporary, and if you look, you can see beyond it even while you're still in it." <br>
+-**Paul Graham**, Co-founder @ Y Combinator ([source](http://www.paulgraham.com/nerds.html))
+
 ### Unsolicited Advice
 
 Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
