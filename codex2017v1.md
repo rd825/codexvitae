@@ -164,6 +164,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "It's important for nerds to realize, too, that school is not life. School is a strange, artificial thing, half sterile and half feral. It's all-encompassing, like life, but it isn't the real thing. It's only temporary, and if you look, you can see beyond it even while you're still in it." <br>
 -**Paul Graham**, Co-founder @ Y Combinator ([source](http://www.paulgraham.com/nerds.html))
 
+"Religion never just builds a pantheon of gods. It always builds the gods as the response to a threat structure, which is going to be a monster story of some kind."<br>
+-**Stephen Asma**, Professor of Philosophy @ Columbia College Chicago ([source](http://nautil.us/issue/53/monsters/why-we-still-need-monsters))
+
 ### Unsolicited Advice
 
 Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
