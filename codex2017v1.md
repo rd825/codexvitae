@@ -167,6 +167,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "Religion never just builds a pantheon of gods. It always builds the gods as the response to a threat structure, which is going to be a monster story of some kind."<br>
 -**Stephen Asma**, Professor of Philosophy @ Columbia College Chicago ([source](http://nautil.us/issue/53/monsters/why-we-still-need-monsters))
 
+"Shelley drew on a mythology of technology that goes back to the 6th century B.C. when the figure Prometheus stole fire from the gods and bestowed it to mankind. The “fire bringer,” is often associated with Lucifer, (literally meaning “light bearer”), who pilfered light from the heavens and brought it down to Earth. The “fall of man” implies an age when mortals are illuminated with knowledge." <br>
+-**Jim Kozubek**, Author of *Modern Prometheus* ([source](http://nautil.us/blog/frankenstein-in-the-age-of-crispr_cas9))
+
 ### Unsolicited Advice
 
 Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
