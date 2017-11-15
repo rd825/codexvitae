@@ -9,6 +9,7 @@ My version serves not only to accomplish those goals for myself but also to high
 
 - [Religion](#religion) 
 - [Money](#money)
+- [General Thinking](#general-thinking)
 - [Business Thinking](#business-thinking)
 
 #### 2. "Confessions"
@@ -56,6 +57,12 @@ When I say freedom from worry, I mean that anxiety about affording my kids' coll
 When I talk about freedom from involuntary decision-making, I'm referring to not having my hand forced due to lack of money. This means not feeling forced to take loans with draconian terms or making decisions that weaken my position in order to shore up my financial position short-term. When people feel desperate, they tend to make bad choices and lose sight of the long game. However, if Warren Buffett can teach us anything, it's that patience and long-termism are powerful tools. 
 
 Tied to this is the idea of BATNA, which is the "best alternative to negotiated agreement." In simple terms, your BATNA is your next best option if whatever deal you're making falls through. With enough cash to both be content and free from worry, your BATNA is to simply walk away; as the [principle of least interest](https://en.wikipedia.org/wiki/Principle_of_least_interest) says that the person who is least interested (i.e. can walk away) has the most power in any form of relationship.
+
+### General Thinking
+
+Here are some miscellaneous things I believe about the world. Others may or may not agree with them.
+
+Substance > Optics
 
 ### Business Thinking
 
@@ -193,4 +200,4 @@ What you'll realize at some point in life is that there are far fewer smart peop
 
 When I was 15, I wanted a job at McDonald's. My dad said to me, “If you want a job so bad , I will pay you $6 an hour. I will pay you $6 an hour every hour you stand looking at the wall.” I asked him “For real?” Then, being young, I asked “Is there a limit to how many hours I can stand?” “No,” he said, “every day, all day.” My younger brother was jealous and said, “What about me?” My dad said, “You too!” So we both faced the wall in the dining room and he only had 2 rules: we must pay attention to the wall and not lean on it. My younger 12-year-old brother lasted less than a half hour and I lasted 2 and half hours; standing was okay, but focusing on the wall was near torture. Having no goals, being homeless, not trying to exceed your own abilities in any way is simply choosing a way of life that leads to the wall, which then leads to drugs and alcohol to cope. (source: [Quora](https://www.quora.com/What-is-the-life-people-should-not-live/answer/Coal-Akida?srid=zFBt))
 
-My favorite time in NYC is 5am. That semi-quiet moment, motion is occurring but at three-quarters speed, the streets and cars providing most but not all of the light. Volume is there - it always is - but it is hushed. Stores opening. People just getting home. At 5am, all that exists are the details. There is something about this middle ground. (source: [Alex Weissman](http://blog.aweissman.com/2017/11/dreams.html))
+My favorite time in NYC is 5am. That semi-quiet moment, motion is occurring but at three-quarters speed, the streets and cars providing most but not all of the light. Volume is there - it always is - but it is hushed. Stores opening. People just getting home. At 5am, all that exists are the details. There is something about this middle ground. (source: [Andy Weissman](http://blog.aweissman.com/2017/11/dreams.html))
