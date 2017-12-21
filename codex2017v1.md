@@ -185,6 +185,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "Infinite verification is impossible but basic verification is not. A few calculations or internet searches can give us some idea whether to trust, or verify more." <br>
 -**Mike Dariano**, Blogger @ The Waiter's Pad ([source](https://thewaiterspad.com/2017/12/06/til2017-trust-but-verify/))
 
+"Velocity is a vector-dependent concept. Moving in two directions that are not 100% aligned creates drag." <br>
+-**Shane Parrish**, Blogger @ Farnam Street ([source](https://www.farnamstreetblog.com/2017/12/2017-letter/))
+
 ### Unsolicited Advice
 
 * Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
