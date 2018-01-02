@@ -206,6 +206,8 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 
 * You should almost never read books in which the author tries to predict the future. Such books, in most cases, are inevitably wrong. What you'll realize in time is that nobody knows what they're doing; thus most predictions fail. Don't place bets with prognosticators (I was one for a time).
 
+* Companies will generally pay employees 5-10% of the economic value they create for the firm. This is the only way companies remain profitable.
+
 ### Anecdotes
 
 When I was 15, I wanted a job at McDonald's. My dad said to me, “If you want a job so bad , I will pay you $6 an hour. I will pay you $6 an hour every hour you stand looking at the wall.” I asked him “For real?” Then, being young, I asked “Is there a limit to how many hours I can stand?” “No,” he said, “every day, all day.” My younger brother was jealous and said, “What about me?” My dad said, “You too!” So we both faced the wall in the dining room and he only had 2 rules: we must pay attention to the wall and not lean on it. My younger 12-year-old brother lasted less than a half hour and I lasted 2 and half hours; standing was okay, but focusing on the wall was near torture. Having no goals, being homeless, not trying to exceed your own abilities in any way is simply choosing a way of life that leads to the wall, which then leads to drugs and alcohol to cope. (source: [Quora](https://www.quora.com/What-is-the-life-people-should-not-live/answer/Coal-Akida?srid=zFBt))
