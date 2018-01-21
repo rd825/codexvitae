@@ -188,6 +188,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "Velocity is a vector-dependent concept. Moving in two directions that are not 100% aligned creates drag." <br>
 -**Shane Parrish**, Blogger @ Farnam Street ([source](https://www.farnamstreetblog.com/2017/12/2017-letter/))
 
+"The great leader, the genius in leadership, is the man who can do the average thing when everybody else is going crazy." <br>
+-**Dwight Eisenhower**, 34th President of the United States ([source](https://www.eisenhower.archives.gov/all_about_ike/quotes.html))
+
 ### Unsolicited Advice
 
 * Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
