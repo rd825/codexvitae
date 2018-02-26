@@ -211,7 +211,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 
 * Companies will generally pay employees 5-10% of the economic value they create for the firm. This is the only way companies remain profitable.
 
-* The things that ultimately teach you the most are the things that test you the most. By putting yourself in situations that are extremely taxing, you'll learn a lot faster than those around you.
+* The things that ultimately teach you the most are the things that test you the most. By putting yourself in situations that are extremely taxing, you'll learn a lot faster than those around you. (h/t: [Eliezer Yudkovsky](http://lesswrong.com/lw/iri/how_to_become_a_1000_year_old_vampire/)) 
+
+* Diversity is better as a salad than a soup. A perfectly well-mixed soup becomes entirely homogenous. Organic clustering and mixing leads to larger-scale structures that extend the range of possibilities. (h/t: [Joe Norman](https://twitter.com/normonics/status/968115147754655744))
 
 ### Other People's Anecdotes
 
