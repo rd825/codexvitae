@@ -191,6 +191,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "The great leader, the genius in leadership, is the man who can do the average thing when everybody else is going crazy." <br>
 -**Dwight Eisenhower**, 34th President of the United States ([source](https://www.eisenhower.archives.gov/all_about_ike/quotes.html))
 
+"Once you’ve truly controlled your own fate, for better or for worse, you’ll never let anyone else tell you what to do. A taste of freedom can make you unemployable." <br>
+-**Naval Ravikant**, CEO @ AngelList ([source](https://twitter.com/naval/status/977691483191980032))
+
 ### Unsolicited Advice
 
 * Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
