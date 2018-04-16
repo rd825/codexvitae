@@ -3,7 +3,7 @@ This document was inspired by [Buster Benson's Codex Vitae](https://github.com/b
 
 My version serves not only to accomplish those goals for myself but also to highlight the things I wish I knew earlier in life and record those things for the children I hope to one day have. Furthermore, this serves as a notebook to capture idea fragments that may benefit from public support, co-creation, or scrutiny. 
 
-_Good thinking should be swift, terrifying, and precise, like a rail-gun obliterating other arguments._
+_Good thinking should be swift, precise, and terrifying, like a rail-gun obliterating other arguments._
 
 ## Table of Contents
 
@@ -105,6 +105,10 @@ unlimited given certain parameters that I haven't thought of yet.
 #### Data-Driven
 
 no decisions should be made due to emotion or opinion alone. Data rules everything around me. revisit "brilliant assholes" via utilitarian perspective.
+
+#### Calendars
+
+You want a [maker schedule](http://www.paulgraham.com/makersschedule.html), which you can attain via [calendar anorexia](https://ryanholiday.net/to-everyone-who-asks-for-just-a-little-of-your-time-heres-what-it-costs-to-say-yes/)
 
 #### Psychological Safety
 
