@@ -114,6 +114,10 @@ You want a [maker schedule](http://www.paulgraham.com/makersschedule.html), whic
 
 lorem ipsum dolor
 
+#### Consultants
+
+I've worked as a consultant and one of my clients said that his firm preferred not to use contract workers. When I asked why, he responsed with a question: "Would you outsource the rearing of your child?"
+
 ## 2. "Confessions"
 
 ### Intro
