@@ -66,6 +66,8 @@ Here are some miscellaneous things I believe about the world. Others may or may 
 
 Substance > Optics
 
+All things break under their own weight when they become too big.
+
 ### Business Thinking
 
 Here's a hit list of things I believe about business management. More simply, this is about how to make profit by building things people want and managing talent well, among other topics.
