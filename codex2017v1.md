@@ -204,6 +204,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 "Once you’ve truly controlled your own fate, for better or for worse, you’ll never let anyone else tell you what to do. A taste of freedom can make you unemployable." <br>
 -**Naval Ravikant**, CEO @ AngelList ([source](https://twitter.com/naval/status/977691483191980032))
 
+"Very few people have consistent values on questions like these. That’s because nobody naturally has principles. People take the unprincipled mishmash of their real opinions, extract principles out of it, and follow those principles. But the average person only does this very weakly, to the point of having principles like “it’s bad when you lie to me, so maybe lying is wrong in general” – and even moral philosophers do it less than a hundred percent and apply their principles inconsistently." <br>
+-**Scott Alexander**, Blogger @ SlateStar Codex ([source](http://slatestarcodex.com/2018/07/18/fundamental-value-differences-are-not-that-fundamental/))
+
 ### Unsolicited Advice
 
 * Anger, frustration, and other negative emotions have an optimal window in which they actually help you get shit done. Too little and you're not motivated; too much and you're paralyzed. When you find yourself in the sweet spot, exert your negative energy to get results (see [sublimation](https://en.wikipedia.org/wiki/Sublimation_(psychology))).
