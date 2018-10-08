@@ -25,6 +25,10 @@ _Good thinking should be swift, precise, and terrifying, like a rail-gun obliter
 - [Unsolicited Advice](#unsolicited-advice)
 - [Other People's Anecdotes](#other-peoples-anecdotes)
 
+#### 4. Better Living
+
+- [Small Tips](#small-tips)
+
 ## 1. Ideas
 
 ### Religion
@@ -240,3 +244,9 @@ The character in history you most dislike | Joseph Stalin | Killed tens of milli
 When I was 15, I wanted a job at McDonald's. My dad said to me, “If you want a job so bad , I will pay you $6 an hour. I will pay you $6 an hour every hour you stand looking at the wall.” I asked him “For real?” Then, being young, I asked “Is there a limit to how many hours I can stand?” “No,” he said, “every day, all day.” My younger brother was jealous and said, “What about me?” My dad said, “You too!” So we both faced the wall in the dining room and he only had 2 rules: we must pay attention to the wall and not lean on it. My younger 12-year-old brother lasted less than a half hour and I lasted 2 and half hours; standing was okay, but focusing on the wall was near torture. Having no goals, being homeless, not trying to exceed your own abilities in any way is simply choosing a way of life that leads to the wall, which then leads to drugs and alcohol to cope. (source: [Quora](https://www.quora.com/What-is-the-life-people-should-not-live/answer/Coal-Akida?srid=zFBt))
 
 My favorite time in NYC is 5am. That semi-quiet moment, motion is occurring but at three-quarters speed, the streets and cars providing most but not all of the light. Volume is there - it always is - but it is hushed. Stores opening. People just getting home. At 5am, all that exists are the details. There is something about this middle ground. (source: [Andy Weissman](http://blog.aweissman.com/2017/11/dreams.html))
+
+## 4. Better Living
+
+### Small Tips
+
+* Most electrical sockets are inefficiently designed; they should be horizontally oriented. Hence, it's up to you to change your behavior to be more efficient when using them. If you intend to leave something plugged in for a long time (e.g. weeks, months, years, forever), plug it into the bottom-most plug. That way, you don't have to contort your arm to plug in items that will require less duration on the plug. In simple terms: things that rarely get unplugged go in the bottom-most plug; then work your way up the outlets by the expected duration of plug usage.
