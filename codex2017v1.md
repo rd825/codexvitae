@@ -13,6 +13,7 @@ _Good thinking should be swift, precise, and terrifying, like a rail-gun obliter
 - [Money](#money)
 - [General Thinking](#general-thinking)
 - [Business Thinking](#business-thinking)
+- [Hard Work](#hard-work)
 
 #### 2. "Confessions"
 
@@ -123,6 +124,18 @@ lorem ipsum dolor
 #### Consultants
 
 I've worked as a consultant and one of my clients said that his firm preferred not to use contract workers. When I asked why, he responsed with a question: "Would you outsource the rearing of your child?"
+
+### Hard Work
+
+Most people do not work hard nor do they want to. Many would get angry at me for saying something like this. They would rebut: "I work plenty hard! I work full-time (40 hours) a week. For that, I deserve to have some balance in my life." And this is fine, if you wish to be a normal person with normal outcomes. But 40 hours is not hard work. 
+
+Hard work is 60-80+ hours of work a week, including going in on weekends and holidays. Hard work is working 12+ hours a day every single day for two years, like my father did when he was starting out as a doctor. It's waking up at crazy hours of the night to make sure your experiments are running properly like my mother did when I was young. It's working 150 hours over 9 straight days and sleeping in the office like I did to make sure my team would deliver great work to our client. Hard work is suffering: you can only become exceptional if you're willing to pay your body and soul in the balance.
+
+Few people think about these realities; fewer still embrace them. This presents opportunity. If you wish to be great, an easy way to get ahead is to outwork the competition. Better yet, you can work smart. If you're more efficient than the people around you, imagine how much you could get done while others struggle to keep up. 
+
+Working hard and working smart are not mutually exclusive. Some people advocate one or the other. This is fallacious. Instead, you should work more efficiently for longer. That's how gains compound. Little by little, decade by decade, you'll gain enough ground to be light years ahead of your peers. 
+
+Note: not all things are worth working so hard for. There are some things we are called to do. For my father, it was medicine and providing for a young family. For my mother, it was furthering cancer research. For me, it's been about developing a reputation of excellence (i.e. to have a Midas touch on work output). Actively hunt for your calling and the hours will slip by faster than you think.
 
 ## 2. "Confessions"
 
