@@ -265,3 +265,9 @@ My favorite time in NYC is 5am. That semi-quiet moment, motion is occurring but 
 * Most electrical sockets are inefficiently designed; they should be horizontally oriented. Hence, it's up to you to change your behavior to be more efficient when using them. If you intend to leave something plugged in for a long time (e.g. weeks, months, years, forever), plug it into the bottom-most plug. That way, you don't have to contort your arm to plug in items that will require less duration on the plug. In simple terms: things that rarely get unplugged go in the bottom-most plug; then work your way up the outlets by the expected duration of plug usage.
 
 * If you watch YouTube videos at higher than 2x speed, enter `document.getElementsByTagName("video")[0].playbackRate = X` in your console where X is a variable (i.e. if X is 3, the video plays at 3x speed). The rate at which you acquire knowledge matters. If you can encode just a bit more data into your brain on a daily basis than other people, it'll compound over time. And then decades from now, you won't be a little smarter but vastly so.
+
+* An awesome bedtime routine for 4-year olds-- what me and my son call "the ones" (source: [Patrick O'Shaughnessy](https://twitter.com/patrick_oshag/status/1059865679518670848))
+  * 1 book
+  * 1 story
+  * 1 "thankful" (these are either hilarious or profound)
+  * 1 minute lying down 
