@@ -271,3 +271,5 @@ My favorite time in NYC is 5am. That semi-quiet moment, motion is occurring but 
   * 1 story
   * 1 "thankful" (these are either hilarious or profound)
   * 1 minute lying down 
+
+* If your boss doesn't do weekly 1-on-1s with you, grab her or him each week and do an unscheduled one. (source: [Jason Lemkin](https://twitter.com/jasonlk/status/1063093476185653248)).
