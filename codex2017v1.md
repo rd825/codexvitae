@@ -273,3 +273,5 @@ My favorite time in NYC is 5am. That semi-quiet moment, motion is occurring but 
   * 1 minute lying down 
 
 * If your boss doesn't do weekly 1-on-1s with you, grab her or him each week and do an unscheduled one. (source: [Jason Lemkin](https://twitter.com/jasonlk/status/1063093476185653248)).
+
+* For the vast majority of YouTube (all?) videos, you can skip the first 30% and still get the bulk of the main content. This is called the [Wadsworth Constant](https://i3.kym-cdn.com/entries/icons/original/000/007/213/Untitled.png).
